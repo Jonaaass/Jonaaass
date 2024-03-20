@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Text Editor<br>🤝 I’m looking for help with anything i can<br>🌱 I’m currently learning python<br>💬 Ask me about anyithing u want<br>
+🔭 I’m currently working on a Text Editor<br>🤝 I’m looking to help with anything i can<br>🌱 I’m currently learning python<br>💬 Ask me about anyithing u want<br>
 
 
 # 💻 Tech Stack:
